@@ -1,4 +1,4 @@
-# SMART AGRI — Application mobile de diagnostic du riz
+# SMART AGRI : Application mobile de diagnostic de la maladie du riz
 
 Application Flutter qui utilise le modèle `agritrac_mobilenetv2_riz.tflite`
 (Phases 1 à 4 du notebook) pour diagnostiquer, **hors-ligne, directement sur
